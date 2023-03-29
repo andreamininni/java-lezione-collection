@@ -44,7 +44,7 @@ list.add("welcome")
 
 ## 02.LinkedList
 un'implementazione della List in cui gli elementi NON sono salvati in locazioni contigue
-List<String> list = new LinkedList<String>();
+LinkedList<String> list = new LinkedList<String>();
 "ciao"
 "buongiorno"
 "Hello world"
